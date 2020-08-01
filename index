@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Weage OS</title>
+</head>
+<body>
+  <header>
+    <div class="logo">
+      <h2>Weage OS</h2>
+    </div>
+    <div class="nav-menu">
+      <ul>
+        <li><a href="">Home</a></li>
+      </ul>
+    </div>
+  </header>
+</body>
+</html>
