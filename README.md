@@ -1,2 +1,2 @@
 # Weage
-[YouTube]https://m.youtube.com
+[YouTube](https://m.youtube.com)
